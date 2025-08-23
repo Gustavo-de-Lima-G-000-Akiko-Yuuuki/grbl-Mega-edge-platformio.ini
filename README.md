@@ -192,3 +192,23 @@ platformio run -t upload
 ## Conclusão
 
 Utilizar o PlatformIO para o desenvolvimento do firmware GRBL oferece vantagens significativas em termos de automação, gerenciamento de projetos e integração com ferramentas modernas. Embora exija uma configuração inicial mais detalhada, os benefícios a longo prazo para o desenvolvimento e manutenção do firmware superam os desafios, especialmente para usuários que buscam um ambiente de desenvolvimento mais profissional e flexível.
+
+
+
+
+
+## Instalação do JRE-Flip-Installer-3.4.7.112 para Arduino
+
+Para utilizar o GRBL com o PlatformIO, é necessário instalar o JRE-Flip-Installer-3.4.7.112, que é um componente essencial para a comunicação com o Arduino. Siga os passos abaixo para realizar a instalação:
+
+1.  **Baixe o JRE-Flip-Installer-3.4.7.112**: Acesse o link de download fornecido e baixe o instalador para o seu sistema operacional. Certifique-se de baixar a versão correta para o seu sistema (Windows, macOS, Linux).
+
+    [Link para Download do JRE-Flip-Installer-3.4.7.112](https://www.microchip.com/developmenttools/ProductDetails/PIC-FLIP)
+
+2.  **Execute o Instalador**: Após o download, execute o arquivo instalador e siga as instruções na tela para concluir a instalação. É recomendável aceitar as configurações padrão, a menos que você tenha necessidades específicas.
+
+3.  **Verifique a Instalaçã
+(Content truncated due to size limit. Use page ranges or line ranges to read remaining content)
+
+
+ao vivo
