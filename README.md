@@ -1,4 +1,5 @@
 # GRBL para Arduino Mega2560 com PlatformIO: Firmware Otimizado para Fresagem CNC
+![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/GPU-Selenium-web-search/blob/main/Image2.png?raw=true)
 
 Este repositório contém uma versão otimizada do firmware GRBL, projetada especificamente para ser executada em placas Arduino Mega2560. Integrado com o PlatformIO, este projeto oferece uma solução de alto desempenho e baixo custo para controle de movimento em máquinas de fresagem CNC, garantindo precisão e estabilidade.
 
